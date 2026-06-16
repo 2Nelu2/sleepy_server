@@ -11,7 +11,7 @@ i wanted a local website hosted on an old smartphone.
 guests should then use it to navigate our main quarters.
 therefore i asked the interwebs what to do.
 as i didnt understand where to paste what, the journey began and now i want to become 
-a developer and not rely on social welfare anymore.
+a developer (or get a job in first level IT support before an LLM gets it)
 
 
 thx for reading
